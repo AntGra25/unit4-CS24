@@ -45,4 +45,8 @@ print_object_info(flight)
 ![Quiz051](https://github.com/AntGra25/unit4-CS24/assets/142757981/728855ef-6941-4875-a403-fa59e5f0f28c)
 
 
-## 3. 
+## 3. UML Diagram
+
+![Quiz051C](https://github.com/AntGra25/unit4-CS24/assets/142757981/f89a2bd0-121f-47df-aa84-ea99c59bfbda)
+
+
