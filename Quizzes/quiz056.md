@@ -41,4 +41,6 @@ print(t.get_handshake())
 ## 2. Proof of Work
 ![Quiz056](https://github.com/AntGra25/unit4-CS24/assets/142757981/4f6dffe9-3614-4764-8f66-1943a4957464)
 
-## 3. 
+## 3. UML Diagram
+![Quiz056C](https://github.com/AntGra25/unit4-CS24/assets/142757981/f66e2b02-79c8-4883-8c64-fee093b04474)
+
