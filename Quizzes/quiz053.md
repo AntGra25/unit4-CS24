@@ -24,4 +24,6 @@ print(pals2.get_pal_list())
 ## 2. Proof of Work
 ![Quiz053](https://github.com/AntGra25/unit4-CS24/assets/142757981/033d6f5f-0064-448c-ab41-b160d727e6c5)
 
-## 3. 
+## 3. UML Diagram
+![Quiz053C](https://github.com/AntGra25/unit4-CS24/assets/142757981/32b9bc78-0a92-4d9e-afc4-3e3ef3604537)
+
