@@ -28,4 +28,6 @@ print(dart.points(11, 11))
 ## 2. Proof of Work
 ![Quiz055](https://github.com/AntGra25/unit4-CS24/assets/142757981/2311c499-fc48-40f6-bb0a-c0ce2875607b)
 
-## 3. 
+## 3. UML Diagram
+![Quiz055C](https://github.com/AntGra25/unit4-CS24/assets/142757981/dd66a85b-030b-498c-ad69-3275062b91f8)
+
