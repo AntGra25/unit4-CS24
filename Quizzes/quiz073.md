@@ -1,7 +1,7 @@
 # Quiz073
 
 ## 1. Solution
-'''.py
+```.py
 def error_check(binary):
     error = False
     first = binary[0]
@@ -20,7 +20,7 @@ if error_check(num):
 else:
     print('No error detected')
 
-'''
+```
 
 ## 2. Proof of Work
 
