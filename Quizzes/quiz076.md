@@ -8,9 +8,6 @@ def get_ham_position(k):
     for position in range(k):
         output.append(2**position - 1)
     return output
-
-
-print(get_ham_position(3))
 ```
 
 # 2. Proof of Work
